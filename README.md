@@ -1,2 +1,1 @@
-# Guided-Capstone-
-first Capstone project
+# Springboard Projects
